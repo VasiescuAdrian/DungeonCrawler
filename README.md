@@ -1,4 +1,4 @@
-# 🏰 Dungeon Crawler RPG (Java)
+#  Dungeon Crawler RPG (Java)
 
 A text-based dungeon crawler RPG built in Java featuring turn-based combat, skills, status effects, merchants, consumables, and procedural dungeon generation with bosses and events.
 
