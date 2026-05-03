@@ -3,7 +3,7 @@
 A text-based dungeon crawler RPG built in Java featuring turn-based combat, skills, status effects, merchants, consumables, and procedural dungeon generation with bosses and events.
 
 ---
-## ▶️ How to Run
+## How to Run
 
 ### Requirements
 - Java 8 or higher installed
