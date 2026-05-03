@@ -3,6 +3,22 @@
 A text-based dungeon crawler RPG built in Java featuring turn-based combat, skills, status effects, merchants, consumables, and procedural dungeon generation with bosses and events.
 
 ---
+## 🎮 Gameplay Screenshots
+
+### Character Creation
+![Character Creation](screenshots/Character.png)
+
+### Combat System
+![Combat](screenshots/Combat.png)
+
+### Boss Fight
+![Boss](screenshots/BossPhase.png)
+
+### Merchant Room
+![Merchant](screenshots/Merchant.png)
+
+
+
 
 ## Features
 
