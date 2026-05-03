@@ -3,6 +3,29 @@
 A text-based dungeon crawler RPG built in Java featuring turn-based combat, skills, status effects, merchants, consumables, and procedural dungeon generation with bosses and events.
 
 ---
+## ▶️ How to Run
+
+### Requirements
+- Java 8 or higher installed
+- Any Java IDE (IntelliJ IDEA, Eclipse, or VS Code)
+
+---
+
+### Steps
+
+1. Clone the repository:
+   git clone https://github.com/USERNAME/DungeonCrawler.git
+2. Open the project in your Java IDE.
+3. Make sure the src folder is marked as Source Root (if using IntelliJ IDEA).
+4. Locate the main entry point:
+game.Main
+5.Run the Main class to start the game.
+
+---
+
+## Controls
+The game is text-based. You interact by entering numbers in the console when prompted.
+
 ## Gameplay Screenshots
 
 ### Character Creation
