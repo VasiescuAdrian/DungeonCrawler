@@ -17,9 +17,8 @@ A text-based dungeon crawler RPG built in Java featuring turn-based combat, skil
    git clone https://github.com/USERNAME/DungeonCrawler.git
 2. Open the project in your Java IDE.
 3. Make sure the src folder is marked as Source Root (if using IntelliJ IDEA).
-4. Locate the main entry point:
-game.Main
-5.Run the Main class to start the game.
+4. Locate the main entry point: game.Main
+5. Run the Main class to start the game.
 
 ---
 
