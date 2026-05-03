@@ -105,4 +105,4 @@ Built as a learning project to explore:
 
 ## Note
 
-This is a console-based RPG project focused on backend/game logic rather than graphics. It was a really tough journey since it is my first game ever created, and I learned everything on the go, stayed on this project for some time.
+This is a console-based RPG project focused on backend/game logic rather than graphics. It was a really tough journey since it is my first game ever created, and I learned everything on the go, stayed on this project for some time. But I enjoy learning new things and love how much it made me evolve my skills.
